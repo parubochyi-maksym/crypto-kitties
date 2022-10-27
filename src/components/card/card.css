@@ -1,0 +1,22 @@
+.item-price {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  font-family: "Courier New", Courier, monospace;
+  color: gray;
+}
+
+.price-image {
+  color: cornflowerblue;
+}
+
+a {
+  text-decoration: none;
+}
+
+.item-description {
+  color: gray;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
