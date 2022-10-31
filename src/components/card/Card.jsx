@@ -17,7 +17,7 @@ export default function Card({ catInfo, sortBy }) {
       </div>
       <div className="item-image">
         {url ? (
-          <img src={url} alt={name} />
+          <img className="card-image" src={url} alt={name} />
         ) : (
           <div className="lds-dual-ring"></div>
         )}

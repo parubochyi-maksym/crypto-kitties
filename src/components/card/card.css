@@ -14,6 +14,10 @@ a {
   text-decoration: none;
 }
 
+.card-image {
+  width: 100%;
+}
+
 .item-description {
   color: gray;
   margin-bottom: 20px;
